@@ -4,8 +4,7 @@
     package="com.rba.component.dynamicfeature">
 
     <dist:module
-        dist:instant="false"
-        dist:title="@string/title_dynamicfeature">
+        dist:instant="false">
         <dist:delivery>
             <dist:on-demand />
         </dist:delivery>
