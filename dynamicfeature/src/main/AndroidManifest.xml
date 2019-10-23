@@ -14,7 +14,7 @@
 
     <application>
         <activity
-            android:name=".MainActivity"
+            android:name="com.rba.component.dynamicfeature.MainActivity"
             android:theme="@style/AppTheme.NoActionBar"/>
     </application>
 
